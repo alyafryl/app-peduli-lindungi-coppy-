@@ -25,7 +25,7 @@ export default Router = () => {
         options={{ headerShown: false }}
       />
       <Stack.Screen
-        name="Imunisasi"
+        name="Imunisasi"//jjjjjjj
         component={Imunisasi}
         options={{ headerShown: false }}
       />
